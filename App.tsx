@@ -91,7 +91,7 @@ const App: React.FC = () => {
   }, [shareCount]);
 
   const handleJoinClick = () => {
-      window.open('https://redirect01-z56s-git-main-benzee10000s-projects.vercel.app/', '_blank');
+      window.open('https://whatsappad.vercel.app/', '_blank');
       setShowJoinAction(false);
       setShowShareGate(true);
   };
@@ -106,7 +106,7 @@ const App: React.FC = () => {
 
 
   const handleAnyClick = () => {
-    window.open('https://redirect01-z56s-git-main-benzee10000s-projects.vercel.app/', '_blank');
+    window.open('https://whatsappad.vercel.app/', '_blank');
   };
 
   return (
