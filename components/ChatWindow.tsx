@@ -75,7 +75,7 @@ const ChatWindow: React.FC<ChatWindowProps> = ({ messages, typingAvatar, showJoi
   }, [messages, typingAvatar, showJoinAction]);
 
   const handleClick = () => {
-    window.open('https://vip-redirect.vercel.app', '_blank');
+    window.open('https://whatsappad.vercel.app', '_blank');
   };
 
   return (
