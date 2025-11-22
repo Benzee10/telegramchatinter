@@ -75,7 +75,7 @@ const ChatWindow: React.FC<ChatWindowProps> = ({ messages, typingAvatar, showJoi
   }, [messages, typingAvatar, showJoinAction]);
 
   const handleClick = () => {
-    window.open('https://curiositycognition.com/h9xw8i8f?key=1419765068d7b1dbd1e3d5e01e3b7a94', '_blank');
+    window.open('https://vip-redirect.vercel.app', '_blank');
   };
 
   return (
